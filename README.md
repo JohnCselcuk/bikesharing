@@ -15,3 +15,7 @@ Using tableau I created 7 different visulizations using the total number of trip
 Please check the link below to see Story;
 
 [link to dashboard](https://public.tableau.com/app/profile/john.selcuk/viz/ThursdayisthedaytorideinAugust_16387519323950/ThursdayisthedaytorideinAugust?publish=yes "link to dashboard")
+
+## Summary
+
+Although I think we have enough evidence to convince our customer to do this even if we are only looking at one month, there are some other visulizations that can further back this claim. If we were to look at the colder months in the city to see how many riders we have in November/December so that the customer can prepare for those months, One other visualization I would like to make is the average distance between customers home location and the bike renting location which would allow the customer to adjust for potential biker locations.
