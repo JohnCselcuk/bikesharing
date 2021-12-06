@@ -12,5 +12,5 @@ Using tableau I created 7 different visulizations using the total number of trip
 - If you look at my trips per weekday(by hour) you can see that Thursday between 5pm-7pm is the most popular time to ride a bike.
 - The largest number of individuals happen to be male, the women users dont have as large of a peak and unkown users do not have a peak for tripduration.
 
-[link to dashboard](LINK GOES HERE)
+
 [link to dashboard](https://public.tableau.com/app/profile/john.selcuk/viz/ThursdayisthedaytorideinAugust_16387519323950/ThursdayisthedaytorideinAugust?publish=yes "link to dashboard")
